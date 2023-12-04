@@ -1,6 +1,6 @@
 # Final-Project
 
-**Team name :** Final Project Team  return
+**Team name :** Final Project Team  <br />
 **Team member's names and email addresses :** Fae: bam212@pitt.edu, 
 **Additionally, your README should tell us which individual analysis notebooks belong to which team members**
 **Canvas group number:** 35
